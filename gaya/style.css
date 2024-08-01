@@ -335,13 +335,10 @@ nav ul li a {
     gap: 3rem;
 }
 
-<<<<<<< HEAD
 .contact-title {
     text-align: center;
 }
 
-=======
->>>>>>> d1bec1c1a7427d3016a2748d0ef7680e3cce85a6
 .contact-form div {
     margin-bottom: 1.4rem;
 }
@@ -409,7 +406,6 @@ footer {
     padding: 4rem 0;
     background: var(--secondaryBackgroundColor);
     text-align: center;
-<<<<<<< HEAD
 }
 
 .footer-icons {
@@ -426,6 +422,4 @@ footer {
 
 .footer-icons a:hover svg {
     fill: #000;
-=======
->>>>>>> d1bec1c1a7427d3016a2748d0ef7680e3cce85a6
 }
